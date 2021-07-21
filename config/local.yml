@@ -1,0 +1,8 @@
+# Server configurations
+server:
+  host: "localhost"
+  port: 8000
+
+# Database credentials
+postgres:
+  conn_string: postgres://root:root@localhost:5432/task_manager
